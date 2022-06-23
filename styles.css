@@ -1,0 +1,13 @@
+.cat {
+  position: absolute;
+  width: 100px;
+  height: 51px;
+  display: block;
+}
+
+#catPicture {
+  position: absolute;
+  width: 100px;
+  height: 51px;
+  background-image: url('cat.jpg');
+}
